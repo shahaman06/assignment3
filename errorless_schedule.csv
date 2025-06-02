@@ -1,0 +1,10 @@
+Name,Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday
+Alice,1:Morning,1:Morning,,1:Afternoon,1:Morning,,
+Bob,1:Afternoon,,1:Afternoon,,1:Afternoon,1:Morning,
+Charlie,1:Evening,1:Evening,1:Evening,,1:Evening,,1:Afternoon
+Diana,,1:Morning,1:Morning,1:Afternoon,,1:Morning,
+Eve,1:Afternoon,,1:Afternoon,1:Morning,,1:Afternoon,
+Frank,1:Morning,1:Afternoon,,1:Morning,1:Morning,,1:Morning
+Grace,1:Evening,,1:Morning,1:Evening,,1:Evening,1:Evening
+Hannah,1:Afternoon,1:Afternoon,1:Evening,1:Afternoon,,,
+Isaac,,1:Morning,1:Afternoon,,1:Afternoon,,1:Afternoon
